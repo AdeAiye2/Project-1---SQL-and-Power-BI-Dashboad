@@ -1,1 +1,1 @@
-# Project-1---SQL-and-Power-BI-Dashboad
+# Project-1---SQL-and-Power-BI-Dashboard
